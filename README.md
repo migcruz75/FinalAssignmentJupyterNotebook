@@ -1,2 +1,2 @@
 # FinalAssignmentJupyterNotebook
-Thank you for your revision
+Thank you for the revision
